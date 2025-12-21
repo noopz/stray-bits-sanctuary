@@ -1,0 +1,22 @@
+{
+  "name": "stray-bits-sanctuary",
+  "owner": {
+    "name": "Zack"
+  },
+  "metadata": {
+    "description": "A sanctuary for stray bits - plugins that wandered in and found purpose",
+    "homepage": "https://straybits.dev"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-shaper",
+      "source": {
+        "source": "github",
+        "repo": "noopz/obsidian-shaper"
+      },
+      "description": "Shape your Obsidian vault - create notes, search tags, analyze links, and manage frontmatter",
+      "version": "1.0.0",
+      "keywords": ["obsidian", "vault", "notes", "knowledge-management"]
+    }
+  ]
+}
