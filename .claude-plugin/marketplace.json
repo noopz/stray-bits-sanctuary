@@ -16,6 +16,15 @@
       },
       "description": "Shape your Obsidian vault - create notes, search tags, analyze links, and manage frontmatter",
       "keywords": ["obsidian", "vault", "notes", "knowledge-management"]
+    },
+    {
+      "name": "claude-dev-essentials",
+      "source": {
+        "source": "github",
+        "repo": "noopz/claude-dev-essentials"
+      },
+      "description": "Self-updating Claude Code documentation plugin",
+      "keywords": ["documentation", "claude-code", "reference", "self-updating"]
     }
   ]
 }
