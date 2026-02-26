@@ -16,6 +16,15 @@
       },
       "description": "Shape your Obsidian vault - create notes, search tags, analyze links, and manage frontmatter",
       "keywords": ["obsidian", "vault", "notes", "knowledge-management"]
+    },
+    {
+      "name": "strata",
+      "source": {
+        "source": "github",
+        "repo": "noopz/strata"
+      },
+      "description": "Structural editing plugin — entropy-guided file outlines, hashline coordinate edits, and cross-file TF-IDF indexing to reduce context consumption",
+      "keywords": ["structural-analysis", "context-optimization", "hashline", "editing"]
     }
   ]
 }

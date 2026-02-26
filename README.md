@@ -15,11 +15,13 @@ Add this marketplace to Claude Code:
 | Plugin | Description |
 |--------|-------------|
 | [obsidian-shaper](https://github.com/noopz/obsidian-shaper) | Shape your Obsidian vault - create notes, search tags, analyze links, and manage frontmatter |
+| [strata](https://github.com/noopz/strata) | Structural editing plugin — entropy-guided file outlines, hashline coordinate edits, and cross-file TF-IDF indexing to reduce context consumption |
 
 ## Installing Plugins
 
 ```bash
 /plugin install obsidian-shaper@stray-bits-sanctuary
+/plugin install strata@stray-bits-sanctuary
 ```
 
 ## About
