@@ -15,7 +15,7 @@ Add this marketplace to Claude Code:
 | Plugin | Description |
 |--------|-------------|
 | [obsidian-shaper](https://github.com/noopz/obsidian-shaper) | Shape your Obsidian vault - create notes, search tags, analyze links, and manage frontmatter |
-| [strata](https://github.com/noopz/strata) | Structural editing plugin — entropy-guided file outlines, hashline coordinate edits, and cross-file TF-IDF indexing to reduce context consumption |
+| [strata](https://github.com/noopz/strata) | Entropy-guided structural outlines for Claude Code — compresses large file reads by ~83% without parsing, using BSP trees and Shannon entropy to serve navigable file maps instead of full content |
 
 ## Installing Plugins
 
