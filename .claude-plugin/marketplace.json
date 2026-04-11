@@ -9,12 +9,12 @@
   },
   "plugins": [
     {
-      "name": "obsidian-shaper",
+      "name": "commonplace",
       "source": {
         "source": "github",
-        "repo": "noopz/obsidian-shaper"
+        "repo": "noopz/commonplace"
       },
-      "description": "Shape your Obsidian vault - create notes, search tags, analyze links, and manage frontmatter",
+      "description": "LLM-maintained knowledge base for Obsidian vaults. Auto-triggers on paper sharing, vault health queries, concept compilation, research questions, and domain management.",
       "keywords": ["obsidian", "vault", "notes", "knowledge-management"]
     },
     {
