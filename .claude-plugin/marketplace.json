@@ -25,6 +25,16 @@
       },
       "description": "Entropy-guided structural outlines for Claude Code — compresses large file reads by ~83% without parsing, using BSP trees and Shannon entropy to serve navigable file maps instead of full content",
       "keywords": ["structural-outlines", "context-optimization", "entropy", "bsp", "read-compression"]
+    },
+    {
+      "name": "agent-peer",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/noopz/agent-peer.git"
+      },
+      "description": "Daemonless local messaging between Claude Code and Codex CLI sessions on macOS, Linux, and Windows.",
+      "category": "development",
+      "keywords": ["agents", "claude-code", "codex", "cross-session", "messaging"]
     }
   ]
 }
