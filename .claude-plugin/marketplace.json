@@ -14,7 +14,7 @@
         "source": "github",
         "repo": "noopz/commonplace"
       },
-      "description": "LLM-maintained knowledge base for Obsidian vaults. Auto-triggers on paper sharing, vault health queries, concept compilation, research questions, and domain management.",
+      "description": "A knowledge vault Claude reads and keeps for any folder of notes: graph-indexed vault tools, private domains that stay sealed, connections to what you already wrote surfaced under answers, and [[note]] links in replies that are checked against the vault.",
       "keywords": ["obsidian", "vault", "notes", "knowledge-management"]
     },
     {
